@@ -1,0 +1,22 @@
+{
+  "name": "DMNCore",
+  "version": "0.1.0",
+  "summary": "A short description of DMNCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李俸栄/DMNCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李俸栄": "lifengrong@hyron.com"
+  },
+  "source": {
+    "git": "https://github.com/李俸栄/DMNCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DMNCore/Classes/**/*"
+}

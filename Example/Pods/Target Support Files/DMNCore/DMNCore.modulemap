@@ -1,0 +1,6 @@
+framework module DMNCore {
+  umbrella header "DMNCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
